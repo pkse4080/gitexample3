@@ -1,0 +1,3 @@
+# gitexample3
+
+Code for myself to test the functionality of github...
